@@ -7,7 +7,7 @@
 lenguages
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
+![](https://img.shields.io/badge/%20-Css-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/%20-Javascript-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/%20-Python-blue?style=for-the-badge&logo=python)
 
